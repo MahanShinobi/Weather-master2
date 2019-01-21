@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_name">شهر مورد نظر</string>
+    <string name="forecast">پیش بینی آب و هوا</string>
+    <string name="search">جستجو</string>
+    <string name="cancel">انصراف</string>
+    <string name="hint">نام شهر</string>
+</resources>
